@@ -1,0 +1,6 @@
+Challenges:
+
+1. I am an engineer by day of schooling and learned C++ and I have always wanted to learn how to program (since early 2003), but have never been able to stick with it. I could never connect the backend to the real world. To me, there is a huge disconnect there. I know if I think in terms of this is a machine and I am inputing information to tell it what to do makes it easier, but this is something I really struggle with. I am a visual learner. 
+
+2. I am really in to processes. What are others processes. How did they start. What do they do when they start programming a web application. More of this would be super helpful in helping me develop out my process. 
+
